@@ -36,8 +36,8 @@
           "label": "&#x25c0;"
         },
         {
-          "code": "KC_DELETE",
-          "label": "&#x2326;"
+          "code": "KC_TAB",
+          "label": "&#x21e5;"
         },
         {
           "code": "KC_Q",
@@ -60,8 +60,8 @@
           "label": "T"
         },
         {
-          "code": "TO(1)",
-          "label": "TO1"
+          "code": "KC_9",
+          "label": "9"
         },
         {
           "code": "KC_BSPACE",
@@ -112,36 +112,36 @@
           "label": "B"
         },
         {
-          "code": "KC_TRANSPARENT",
-          "label": ""
+          "code": "KC_LBRACKET",
+          "label": "["
         },
         {
-          "code": "KC_TRANSPARENT",
-          "label": ""
+          "code": "KC_GRAVE",
+          "label": "`"
         },
         {
-          "code": "KC_TRANSPARENT",
-          "label": ""
+          "code": "KC_QUOTE",
+          "label": "'"
         },
         {
-          "code": "KC_TAB",
-          "label": "&#x21e5;"
+          "code": "KC_LCTRL",
+          "label": "&#x2732;"
         },
         {
-          "code": "KC_LEFT",
-          "label": "&#x25c0;"
-        },
-        {
-          "code": "KC_RIGHT",
-          "label": "&#x25b6;"
-        },
-        {
-          "code": "KC_TRANSPARENT",
-          "label": ""
+          "code": "KC_LALT",
+          "label": "&#x2325;"
         },
         {
           "code": "KC_LGUI",
           "label": "&#x2318;"
+        },
+        {
+          "code": "KC_LSHIFT",
+          "label": "&#x21e7;"
+        },
+        {
+          "code": "KC_LCTRL",
+          "label": "&#x2732;"
         },
         {
           "code": "KC_HOME",
@@ -188,8 +188,8 @@
           "label": "-"
         },
         {
-          "code": "TO(1)",
-          "label": "TO1"
+          "code": "KC_0",
+          "label": "0"
         },
         {
           "code": "KC_Y",
@@ -240,8 +240,8 @@
           "label": "'"
         },
         {
-          "code": "KC_TRANSPARENT",
-          "label": ""
+          "code": "KC_RBRACKET",
+          "label": "]"
         },
         {
           "code": "KC_N",
@@ -268,6 +268,10 @@
           "label": "&#x21e7;"
         },
         {
+          "code": "KC_LEFT",
+          "label": "&#x25c0;"
+        },
+        {
           "code": "KC_UP",
           "label": "&#x25b2;"
         },
@@ -276,24 +280,20 @@
           "label": "&#x25bc;"
         },
         {
-          "code": "KC_LBRACKET",
-          "label": "["
+          "code": "KC_RIGHT",
+          "label": "&#x25b6;"
         },
         {
-          "code": "KC_RBRACKET",
-          "label": "]"
-        },
-        {
-          "code": "KC_TRANSPARENT",
-          "label": ""
+          "code": "TO(1)",
+          "label": "TO1"
         },
         {
           "code": "KC_LALT",
           "label": "&#x2325;"
         },
         {
-          "code": "KC_ESCAPE",
-          "label": "&#x238b;"
+          "code": "KC_LSHIFT",
+          "label": "&#x21e7;"
         },
         {
           "code": "KC_PGUP",
